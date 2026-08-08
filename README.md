@@ -27,6 +27,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagani12" alt="gagani12" /></a> </p>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gagani_tharushika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gagani_tharushika" /></a></p><br><br>
