@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:4B6584,100:58A6FF&height=200&section=header&text=Gagani%20Rathnayaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Dev%20%7C%20Data%20Science&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:DB2777,100:F9A8D4&height=200&section=header&text=Gagani%20Rathnayaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Dev%20%7C%20Data%20Science&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Gagani;Frontend+Developer;Learning+Web+Development+%26+Data+Science;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DB2777&center=true&vCenter=true&width=650&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Gagani;Frontend+Developer+%F0%9F%92%BB;Learning+Web+Development+%26+Data+Science+%F0%9F%93%8A;Future+Data+Scientist+%F0%9F%A4%96;Always+Building%2C+Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Frontend-58A6FF?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-Data%20Science-F7B93E?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend-DB2777?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Data%20Science-F472B6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-EC4899?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Gagani12&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Gagani12&label=Profile%20Views&color=DB2777&style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C3E50&height=3&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,100:831843&height=3&width=800"/>
 
 </div>
 
@@ -29,12 +29,20 @@ Role:      Frontend Developer
 GitHub:    Gagani12
 
 Currently Learning:
-  - Web Development
-  - Data Science
+  - 📊 Data Visualization
+  - 🗄️ Data Warehousing
+  - ⛏️ Data Mining
+  - 🌐 Web Mining
+  - 📈 Advanced Statistics
+
+Interests:
+  - 📊 Data Science
+  - 📈 Data Visualization
+  - 💻 Web Development
+  - 🤖 Machine Learning
 ```
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C3E50&height=3&width=800"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,100:831843&height=3&width=800"/> 
 </div>
 
 ## 📌 Featured Projects
@@ -66,8 +74,7 @@ Final assignment for the Data Science module.
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C3E50&height=3&width=800"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,100:831843&height=3&width=800"/> 
 </div>
 
 ## 🛠️ Tools I Use
@@ -76,23 +83,26 @@ Final assignment for the Data Science module.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,py,git,github,vscode,figma&theme=dark" />
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C3E50&height=3&width=800"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,100:831843&height=3&width=800"/> 
 </div>
 
 ## 🌐 How To Reach Me
 
 <p align="center">
   <a href="https://github.com/Gagani12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gagani-rathnayaka">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gagani-rathnayaka">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tharushikagagani0608@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C3E50&height=3&width=800"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,100:831843&height=3&width=800"/> 
 </div>
 
 ## 📊 GitHub Stats
@@ -105,6 +115,4 @@ Final assignment for the Data Science module.
 
 ### *"Learn. Build. Grow."* ⚙️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:4B6584,100:58A6FF&height=150&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:DB2777,100:F9A8D4&height=150&section=footer"/> </div>
